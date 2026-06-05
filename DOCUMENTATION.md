@@ -1142,4 +1142,8 @@ For implementation details, check the source code in each module:
 - `src/tools/` - Tool implementations
 - `src/database/` - Database models
 - `src/rag/` - RAG system
+
+---
+
+*Made with love by Gowrika for Travel Intelligent*
 - `src/ui/app.py` - Frontend interface

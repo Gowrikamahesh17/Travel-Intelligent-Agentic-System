@@ -171,3 +171,7 @@ tail -f logs/app.log | grep "Successfully\|knowledge-based"
 **Status**: ✅ Production Ready  
 **Data**: ✅ Real APIs + Knowledge-Based  
 **Last Updated**: May 15, 2026
+
+---
+
+*Made with love by Gowrika for Travel Intelligent*
